@@ -12,6 +12,7 @@ This is a team project developed to manage and generate quotations efficiently.
 - .NET
 - C#
 - SQL Server
+- Database schema and documentation are available in the `/database` folder
 
 
 
